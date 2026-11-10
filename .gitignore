@@ -1,0 +1,6 @@
+node_modules/
+web/dist/
+web/public/data/
+storage/
+*.log
+演示视频/
